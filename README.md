@@ -4,9 +4,7 @@ A AnalytcOZ é uma plataforma web adequada ao modelo de negócio para o cliente 
 
 # Objetivos
 
-Organizar o fluxo gerencial de caixa e compromissos da produtora, visando mostrar a tendência e popularidade de seus produtos e serviços, 
-abrangendo informações das tendências do mercado para tomada de decisões.
-Ao todo uma visão analítica do próprio negócio com praticidade e eficiência.
+Organizar o fluxo gerencial de caixa e compromissos da produtora, visando mostrar a tendência e popularidade de seus produtos e serviços, abrangendo informações das tendências do mercado para tomada de decisões. Ao todo uma visão analítica do próprio negócio com praticidade e eficiência.
 
 # Personas
 
@@ -29,7 +27,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
-Necessário ter uma ferramenta ppara desenvolvimento como Visual Studio Code, em casos de desenvolvedores testarem.
+Necessário ter uma ferramenta para desenvolvimento como Visual Studio Code, em casos de desenvolvedores testarem.
 Necessário ter instalado nodejs.
 
 ### 🔧 Instalação
@@ -75,4 +73,4 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
-#### 🎁 Gostaríamos de Agradecer a todo o corpo docente da Unimar por sua dedicação e conhecimento, de maneira em que nós conseguimos praticar através de diversos projetos e atividades praticas desenvolvidas em laboratório. Contribuindo assim para o nosso crescimento e desenvolvimento pessoaL.
+#### 🎁 Gostaríamos de Agradecer a todo o corpo docente da Unimar por sua dedicação e conhecimento, de maneira em que nós conseguimos praticar através de diversos projetos e atividades práticas desenvolvidas em laboratório. Contribuindo assim para o nosso crescimento e desenvolvimento pessoal.
