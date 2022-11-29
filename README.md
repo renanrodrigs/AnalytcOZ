@@ -1,6 +1,25 @@
-# AnalytcOZ
+## AnalytcOZ
 
-Um parágrafo da descrição do projeto vai aqui
+A AnalytcOZ é uma plataforma web adequada ao modelo de negócio para o cliente com consultoria opcional que possui métodos de visualizações desses dados limpos, organizados e analisados em tendência ao mercado. Criado para produtoras em geral, cuja falta de organização, analise de negócio, controle de gerenciamento de produtos e serviços e tomada de decisão seja complexa. Diferentemente da Dataside, o nosso produto garante agilidade, especialização no nicho e clareza no meio de tantas informações para melhores tomadas de decisão.
+
+# Objetivos
+
+Organizar o fluxo gerencial de caixa e compromissos da produtora, visando mostrar a tendência e popularidade de seus produtos e serviços, 
+abrangendo informações das tendências do mercado para tomada de decisões.
+Ao todo uma visão analítica do próprio negócio com praticidade e eficiência.
+
+#Personas
+
+Produtoras generalizadas (com seu produto e serviço) sem organização dos dados, ou seja, produtores que buscam praticidade na organização e tomada de decisão das informações internas.
+
+É - Um sistema para gerenciamento geral e analítico do seu negócio
+
+Não é - Um site para vendas e marketing dos produtos do cliente(Interação empresa cliente)
+
+Faz - Analise do modelo de negócio do cliente onde pode cadastrar seus produtos e serviços afim de ter um gerenciamento de giro do caixa, 
+organização de compromissos e tomada de decisão com as informações visíveis de seu negócio(gráficos, tabelas etc.)
+
+Não faz - Uma interação direta com o cliente, ou fornece ferramentas específicas para execução do negócio
 
 ## 🚀 Começando
 
@@ -12,8 +31,9 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
-```
-Dar exemplos
+Necessário ter uma ferramenta ppara desenvolvimento como Visual Studio Code, em casos de desenvolvedores testarem.
+Necessário ter instalado nodejs.
+
 ```
 
 ### 🔧 Instalação
@@ -31,35 +51,6 @@ Execute o comando git clone {URL};
 Feito isso terá o projeto clonado a sua máquina basta colocar um documento nomeado de .env na pasta do backend com a seguinte estrutura,
 mas apontado para o seu banco com a estrutura que está no repositório.
 
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
 ```
 
 ## 📦 Implantação
@@ -68,12 +59,8 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## 🛠️ Construído com
 
-reactjs - O framework web frontend
-nodejs - Backend
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+*reactjs - O framework web frontend
+*nodejs - Backend
 
 ## 📌 Versão
 
@@ -87,10 +74,8 @@ Desenvolvedor - Alvaro
 Desenvolvedor - Cayque
 Desenvolvedor - Renan
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
 ## 📄 Licença
 
 Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
-## 🎁Gostariamos de Agradecer a todo o corpo docente que contruibuiram para o nosso crescimento e desenvolvimente pessoal.
+## 🎁Gostaríamos de Agradecer a todo o corpo docente que contribuíram para o nosso crescimento e desenvolvimento pessoal.
