@@ -36,7 +36,6 @@ Uma série de exemplos passo-a-passo que informam o que você deve executar para
 
 Diga como essa etapa será:
 
-\\
 Em uma pasta ou local de sua escolha em sua máquina, abra seu terminal;
 
 Em seguida, copie a URL do repositório para fazer um clone em sua pasta;
@@ -45,7 +44,6 @@ Execute o comando git clone {URL};
 
 Feito isso terá o projeto clonado a sua máquina basta colocar um documento nomeado de .env na pasta do backend com a seguinte estrutura,
 mas apontado para o seu banco com a estrutura que está no repositório.
-//
 
 ## 📦 Implantação
 
