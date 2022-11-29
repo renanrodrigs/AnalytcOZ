@@ -66,11 +66,14 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 Desenvolvedor - Alvaro
+
 Desenvolvedor - Cayque
+
 Desenvolvedor - Renan
 
 ## 📄 Licença
 
 Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+
 
 ## 🎁 Gostaríamos de Agradecer a todo o corpo docente que contribuíram para o nosso crescimento e desenvolvimento pessoal.
