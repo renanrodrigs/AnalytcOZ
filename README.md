@@ -25,16 +25,12 @@ Não faz - Uma interação direta com o cliente, ou fornece ferramentas específ
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
-
 ### 📋 Pré-requisitos
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 Necessário ter uma ferramenta ppara desenvolvimento como Visual Studio Code, em casos de desenvolvedores testarem.
 Necessário ter instalado nodejs.
-
-```
 
 ### 🔧 Instalação
 
@@ -50,8 +46,6 @@ Execute o comando git clone {URL};
 
 Feito isso terá o projeto clonado a sua máquina basta colocar um documento nomeado de .env na pasta do backend com a seguinte estrutura,
 mas apontado para o seu banco com a estrutura que está no repositório.
-
-```
 
 ## 📦 Implantação
 
@@ -79,4 +73,4 @@ Desenvolvedor - Renan
 
 Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
-## 🎁Gostaríamos de Agradecer a todo o corpo docente que contribuíram para o nosso crescimento e desenvolvimento pessoal.
+## 🎁 Gostaríamos de Agradecer a todo o corpo docente que contribuíram para o nosso crescimento e desenvolvimento pessoal.
