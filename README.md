@@ -8,7 +8,7 @@ Organizar o fluxo gerencial de caixa e compromissos da produtora, visando mostra
 abrangendo informações das tendências do mercado para tomada de decisões.
 Ao todo uma visão analítica do próprio negócio com praticidade e eficiência.
 
-#Personas
+# Personas
 
 Produtoras generalizadas (com seu produto e serviço) sem organização dos dados, ou seja, produtores que buscam praticidade na organização e tomada de decisão das informações internas.
 
@@ -59,7 +59,8 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## 🛠️ Construído com
 
-*reactjs - O framework web frontend
+*reactjs - O framework web frontend 
+
 *nodejs - Backend
 
 ## 📌 Versão
