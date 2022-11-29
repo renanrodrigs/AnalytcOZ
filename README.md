@@ -12,10 +12,10 @@ Produtoras generalizadas (com seu produto e serviço) sem organização dos dado
 
 É - Um sistema para gerenciamento geral e analítico do seu negócio
 
-Não é - Um site para vendas e marketing dos produtos do cliente(Interação empresa cliente)
+Não é - Um site para vendas e marketing dos produtos do cliente (Interação empresa cliente)
 
 Faz - Analise do modelo de negócio do cliente onde pode cadastrar seus produtos e serviços afim de ter um gerenciamento de giro do caixa, 
-organização de compromissos e tomada de decisão com as informações visíveis de seu negócio(gráficos, tabelas etc.)
+organização de compromissos e tomada de decisão com as informações visíveis de seu negócio (gráficos, tabelas etc.)
 
 Não faz - Uma interação direta com o cliente, ou fornece ferramentas específicas para execução do negócio
 
