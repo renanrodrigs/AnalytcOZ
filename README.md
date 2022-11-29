@@ -73,4 +73,4 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
-## 🎁 Gostaríamos de Agradecer a todo o corpo docente que contribuíram para o nosso crescimento e desenvolvimento pessoal.
+#### 🎁 Gostaríamos de Agradecer a todo o corpo docente que contribuíram para o nosso crescimento e desenvolvimento pessoal.
