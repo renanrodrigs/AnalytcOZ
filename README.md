@@ -1,6 +1,6 @@
 ## AnalytcOZ
 
-A AnalytcOZ é uma plataforma web adequada ao modelo de negócio para o cliente com consultoria opcional que possui métodos de visualizações desses dados limpos, organizados e analisados em tendência ao mercado. Criado para produtoras em geral, cuja falta de organização, analise de negócio, controle de gerenciamento de produtos e serviços e tomada de decisão seja complexa. Diferentemente da Dataside, o nosso produto garante agilidade, especialização no nicho e clareza no meio de tantas informações para melhores tomadas de decisão.
+A AnalytcOZ é uma plataforma web adequada ao modelo de negócio para o cliente com consultoria opcional que possui métodos de visualizações desses dados limpos, organizados e analisados em tendência ao mercado. Criado para Empresas de marketplace, Freelancer (Copywriter), cuja falta de organização, analise de negócio, controle de gerenciamento de produtos e serviços e tomada de decisão seja complexa. Diferentemente da Dataside, o nosso produto garante agilidade, especialização no nicho e clareza no meio de tantas informações para melhores tomadas de decisão.
 
 # Objetivos
 
@@ -8,7 +8,7 @@ Organizar o fluxo gerencial de caixa e compromissos da produtora, visando mostra
 
 # Personas
 
-Produtoras generalizadas (com seu produto e serviço) sem organização dos dados, ou seja, produtores que buscam praticidade na organização e tomada de decisão das informações internas.
+Empresas de marketplace, Freelancer (Copywriter) sem organização dos dados, ou seja, produtores que buscam praticidade na organização e tomada de decisão das informações internas.
 
 É - Um sistema para gerenciamento geral e analítico do seu negócio
 
