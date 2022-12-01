@@ -64,7 +64,9 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 Desenvolvedor - Alvaro
+
 Desenvolvedor - Cayque
+
 Desenvolvedor - Renan
 
 ## 📄 Licença
