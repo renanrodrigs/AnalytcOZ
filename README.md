@@ -4,7 +4,7 @@ A AnalytcOZ é uma plataforma web adequada ao modelo de negócio para o cliente 
 
 # Objetivos
 
-Organizar o fluxo gerencial de caixa e compromissos da produtora, visando mostrar a tendência e popularidade de seus produtos e serviços, abrangendo informações das tendências do mercado para tomada de decisões. Ao todo uma visão analítica do próprio negócio com praticidade e eficiência.
+Organizar o fluxo gerencial de caixa e compromissos da empresa, visando mostrar a tendência e popularidade de seus produtos e serviços, abrangendo informações das tendências do mercado para tomada de decisões. Ao todo uma visão analítica do próprio negócio com praticidade e eficiência.
 
 # Personas
 
