@@ -63,11 +63,11 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-*Desenvolvedor - Alvaro
+_Desenvolvedor - Alvaro
 
-*Desenvolvedor - Cayque
+_Desenvolvedor - Cayque
 
-*Desenvolvedor - Renan
+_Desenvolvedor - Renan
 
 ## 📄 Licença
 
