@@ -47,7 +47,7 @@ mas apontado para o seu banco com a estrutura que está no repositório.
 
 ## 📦 Implantação
 
-Getting Started with Create React App
+# Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
 Available Scripts
@@ -104,9 +104,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## 🛠️ Construído com
 
-*reactjs - O framework web frontend 
+* reactjs - O framework web frontend 
 
-*nodejs - Backend
+* nodejs - Backend
 
 ## ✒️ Autores
 
@@ -118,4 +118,4 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * Desenvolvedor - Renan
 
-#### 🎁 Gostaríamos de Agradecer a todo o corpo docente da Unimar por sua dedicação e conhecimento, de maneira em que nós conseguimos praticar através de diversos projetos e atividades práticas desenvolvidas em laboratório. Contribuindo assim para o nosso crescimento e desenvolvimento pessoal.
+#### 🎁 _ Gostaríamos de Agradecer a todo o corpo docente da Unimar por sua dedicação e conhecimento, de maneira em que nós conseguimos praticar através de diversos projetos e atividades práticas desenvolvidas em laboratório. Contribuindo assim para o nosso crescimento e desenvolvimento pessoal.
