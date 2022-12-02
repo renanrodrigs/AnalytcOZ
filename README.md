@@ -55,10 +55,6 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 *nodejs - Backend
 
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
-
 ## ✒️ Autores
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
@@ -68,9 +64,5 @@ Desenvolvedor - Alvaro
 Desenvolvedor - Cayque
 
 Desenvolvedor - Renan
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
 #### 🎁 Gostaríamos de Agradecer a todo o corpo docente da Unimar por sua dedicação e conhecimento, de maneira em que nós conseguimos praticar através de diversos projetos e atividades práticas desenvolvidas em laboratório. Contribuindo assim para o nosso crescimento e desenvolvimento pessoal.
